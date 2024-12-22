@@ -1,5 +1,3 @@
-package day01;
-
 import org.junit.jupiter.api.*;
 
 public class C02_TestNotation {

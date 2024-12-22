@@ -1,17 +1,15 @@
-package day02;
-
-import org.checkerframework.common.util.count.report.qual.ReportUse;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.devtools.v85.animation.model.KeyframeStyle;
 import org.openqa.selenium.interactions.Actions;
 
 import java.time.Duration;
 
-public class C01_HepsiBurada_LoginTesti {
+public class C04_HepsiBurada_LoginTesti {
 
     static WebDriver driver;
 

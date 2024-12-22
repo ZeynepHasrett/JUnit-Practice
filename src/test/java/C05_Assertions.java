@@ -1,5 +1,3 @@
-package day02;
-
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
@@ -11,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C02_Assertions {
+public class C05_Assertions {
     // 4 farkli test method'u olusturarak asagidaki testleri yapin
 
     static WebDriver driver;
